@@ -1,0 +1,4 @@
+__pycache__/
+gpt_api_key.txt
+tmp/
+poetry.lock
