@@ -1,0 +1,1 @@
+API_KEY_PATH = "safety_report/gpt_api_key.txt"

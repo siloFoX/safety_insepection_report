@@ -35,6 +35,5 @@ def extract_txt_from_pdf (src_pdf = env.PDF_SRC, src_txt = env.TXT_SRC) :
     return is_file_exist
         
 
-
 if __name__ == "__main__" :
     print(extract_txt_from_pdf())
